@@ -1,0 +1,6 @@
+{
+  "folder": "01-Inbox/日记",
+  "template": "01-Inbox/模板/日记 tp",
+  "autorun": false,
+  "format": "YYYY-MM-DD dddd"
+}

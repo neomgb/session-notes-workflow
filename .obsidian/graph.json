@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path:03-Cards",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: React",
+      "color": {
+        "a": 1,
+        "rgb": 6413051
+      }
+    },
+    {
+      "query": "tag: Git",
+      "color": {
+        "a": 1,
+        "rgb": 14720594
+      }
+    },
+    {
+      "query": "tag:#笔记",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.6993267980346374,
+  "close": true
+}

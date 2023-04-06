@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "6cbc25ab3e3f4769",
+    "type": "split",
+    "children": [
+      {
+        "id": "7537d23281687315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e1b842a3e6faa03",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "02-白板/笔记工作流.canvas",
+                "viewState": {
+                  "x": 42.64168796695958,
+                  "y": 835.243026942983,
+                  "zoom": -0.8309875117050427
+                }
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba1c6dc972b3cd7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "490705ced30acab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d444b94c760fe0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ecd7aae60f20965",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad02f0bd7ca4791a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "96c2a155644ff9c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3efb75508e2381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e522d5a2792193",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4809569c67980a47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-白板/笔记工作流.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4ad6f43bab4b79f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-白板/笔记工作流.canvas"
+              }
+            }
+          },
+          {
+            "id": "67a562df95be3097",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0e85e46f293763e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ef05109ca6c95ee",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "02-白板/笔记工作流.canvas",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0570636017639112,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "538b3333d0bfe0d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-白板/笔记工作流.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": true,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "02d444b94c760fe0",
+  "lastOpenFiles": [
+    "01-Inbox/主页.canvas",
+    "02-白板/笔记工作流.canvas",
+    "02-白板/课堂笔记-Docker.md",
+    "03-Cards/JSX 支持的 js 表达式.md",
+    "03-Cards/JSX 列表渲染.md",
+    "03-Cards/JSX 动态类名控制.md",
+    "03-Cards/Github 通过 token clone 代码.md",
+    "03-Cards/Git 配置用户信息.md",
+    "03-Cards/Git 创建并添加 ssh key.md",
+    "03-Cards/写卡片笔记以前的学习状态.md",
+    "03-Cards/为什么要记笔记.md",
+    "03-Cards/@JSX 笔记.md",
+    "03-Cards/@Git 学习笔记.md",
+    "02-阅读/加密之王：币基的崛起、危机与加密经济的未来.md",
+    "02-阅读/财经（2023年第4期）.md",
+    "01-Inbox/附件/Pasted image 20230406130254.png",
+    "02-白板/Drawing-.md",
+    "03-Cards/JSX test.md",
+    "03-Cards/jpa 函数起名.md",
+    "03-Cards/jpa 反模式.md",
+    "03-Cards/供应链问题.md",
+    "01-Inbox/日记/2023-04-07 星期五.md",
+    "01-Inbox/日记/2023-04-06 星期四.md",
+    "01-Inbox/日记/2023-04-04 星期二.md",
+    "05-看板/最近卡片.md",
+    "03-Cards/JSX 条件渲染.md",
+    "03-Cards/JSX 类名样式.md",
+    "03-Cards/JSX 语法规则.md",
+    "02-标注",
+    "02-阅读",
+    "02-白板/Github Actions.canvas",
+    "01-Inbox/附件/Pasted image 20230405225823.png",
+    "CI",
+    "01-Inbox/附件/Pasted image 20221225094448.png",
+    "02-白板/Recoil 分享.canvas",
+    "01-Inbox/日记",
+    "未命名.canvas",
+    "01-Inbox/附件/Pasted image 20230317110006.png",
+    "02-项目/website",
+    "02-项目/mobile-webview",
+    "02-项目",
+    "02-白板/金字塔原理.canvas",
+    "01-Inbox/附件/DE69BBD0-CF23-4620-8BEE-A911AFFBD5FA_4_5005_c.jpeg",
+    "01-Inbox/附件/EBDED279-1356-453D-9CCD-6F78B4DC1A88_1_102_o.jpeg"
+  ]
+}

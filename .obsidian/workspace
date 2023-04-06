@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "6cbc25ab3e3f4769",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47df6c872f0c140",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba1c6dc972b3cd7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "490705ced30acab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d444b94c760fe0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ecd7aae60f20965",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad02f0bd7ca4791a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210
+  },
+  "right": {
+    "id": "96c2a155644ff9c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3efb75508e2381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e522d5a2792193",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "538b3333d0bfe0d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4809569c67980a47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4ad6f43bab4b79f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "67a562df95be3097",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e78248fe07e4220",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e47df6c872f0c140",
+  "lastOpenFiles": [
+    "02-阅读/Kindle/忘语-凡人修仙传.md",
+    "01-Inbox/碎片/2022-10-10.md",
+    "01-Inbox/碎片/2022-10-09.md",
+    "01-Inbox/碎片/2022-10-05.md",
+    "01-Inbox/待办/代码 tasks.md",
+    "01-Inbox/参考/开源项目 ref.md",
+    "01-Inbox/参考/自媒体 ref.md",
+    "01-Inbox/待办/自媒体 tasks.md",
+    "02-阅读/微信读书/个人成长/读懂一本书：樊登读书法.md",
+    "01-Inbox/碎片/2022-09-28.md"
+  ]
+}
